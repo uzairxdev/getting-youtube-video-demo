@@ -1,4 +1,4 @@
-# getting_youtube_tumbnail
+# getting_youtube_video_demo
 
 A new Flutter project.
 
